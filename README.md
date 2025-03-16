@@ -1,2 +1,2 @@
 # myRepository
-My work samples
+This repository is a collection of few of my work samples
