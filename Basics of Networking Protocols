@@ -1,0 +1,27 @@
+Basics of Networking Protocols:
+--------------------------------------------------
+This article aims to help you understand the basics of Internet Protocols and Web-based Communication Protocols. 
+
+Understanding Internet Protocols: 
+--------------------------------------------------
+These protocols define how data is transffered over a network. It defined how data moves across the network.  
+They consist of protocols such as IP, TCP, and UDP, each of which are designed for a specific purpose:
+IP: used to assign an IP address to a device and route its data. Every device on the internet has an IP address. This protocol helps the data reach to the correct device. 
+TCP (Transfer Control Protocol): helps ensure reliabile, ordered, and error-free communication. This protocol is used in web-browsing. 
+UDP (User Datagram Protocol): used for faster data transfer without checking errors. This protocol is typically used in video-streaming, gaming etc.   
+ICMP (Internet Control Message Protocol): used for error-reporting and network diagnostics. An example of this protocol is the ping command.
+
+Understanding Web-based Communication Protocols:
+--------------------------------------------------
+These protocols govern how data is transferred between web-based applications over the internet. These protocls define how webs services and application communicate.
+Note: These protocols are built on top of Internet Protocols. 
+Web-based protocols include HTTP, HTTPS, FTP, and DNS. Let's understand each of these protocols:
+HTTP: Hyper-text transfer protocol: This is designed to transfer webpages over the internet. For example, HTTP is used to load any website. 
+HTTPS: A secured version of HTTP. It encrypts data and hence is secured. For example, HTTPS can be used to access banking applications where security is very important.
+FTP: File-transfer protocol is used to transfer files between computers. For example, FTP can be used to upload a file to a website.
+DNS: Domain Name System: Assigns IP addresses to domain names. 
+
+Example:
+--------------------------------------------------
+When you enter a website name in a browser (example, https://google.com) the browser requests a web page to a server. You can use either HTTP or HTTPS in the URL. 
+DNS translates the website name to an IP address so that the request reaches the correct server. 
