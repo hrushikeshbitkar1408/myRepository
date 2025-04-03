@@ -25,5 +25,101 @@ There are many terms and concepts that are important for security professionals 
 
   Alerting suspicious activity
 
-Credits: Coursera: These terminologies are picked from Coursera 
+* Malware: A software program that is intended to attack devices or network
+* Virus: A Malware that modifies other computer programs by installing its own code to damage and/ or destroy data. 
+* Worm: Malware that self-replicates, spreading across network and infecting computers. 
+* Ransomware: A malicious attack during which threat actors encrypt an organization's data and demand payment to restore it.
+* Spyware: A malicious software installed on a user's computer without their permission, used to spy or steal data.
+* Phishing: Use of digital communication to trick people into revealing sensitive data or installing malicious software. 
+* Spear Phishing: A malicious email attach on a specific user or a group of users that appears from a trusted source. 
+* Whaling: A form of spear phishing in which threat actors target executives to get access to sensitive data. 
+* Business Email Compromise (BEC): An attack in which a threat actor impersonates a known source to obtain financial advantage. 
+* Vishing: Exploitation of electronic voice communication or impersonate a person to obtain sensitive information.
+* Social Engineering: A manipulation technique that exploits human error to gain unauthorized access to sensitive, private, and/or valuable data
+* Social Media Phishing: An attack in which a threat actor collects detailed information about their target on social media sites before initiating an attack.
+* Watering hole attack: An attack in which a threat actor compromises a website frequently visited by a specific group of users
+* Physical social engineering: An attack in which a threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+* USB baiting: An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and unknowingly infect a network.
 
+Understanding the eight domains of security professionals:
+1. Security and Risk Management: Defines security goals and objectives, risk mitigation, compliance, business continuity, and law. For example, security analyst may need to update policies on private health information. Ex. Social Engineering attacks.
+
+2. Asset Security: Focusses on security of physical and digital assets. It also pertains to storage, maintenance, retention, and destruction of data. For example, as a security analyst you may be required to physically destroy storage. Ex. Physical attack.
+
+3. Security Architecture and Engineering: Optimizes data security by ensuring effective tools, systems, and processes are in place. For example, you may be tasked to set up a company's firewall.
+
+4. Communication and Network Security: Focusses on managing and securing physical networks and wireless communications. For example, as a security analyst, you may be asked to analyze user behaviour within your organization. In case users are exposed to unsecured hotspots, they may be vulnerable to attacks. As a security analyst, you may be tasked to setup a network policy to prevent and mitigate exposure. Ex. Password attack. Adverse AI attacks 
+
+5. Identity and Access Management: Focusses on keeping data secure by ensuring users follow established practices to control and manage physical assets, like office spaces, logical assets such as networks and applications. Validating user access and documenting the access role is important. For example, you may be tasked to validate employee's key card access to an office building.  Ex. Adverse AI attacks
+
+6. Security Assessment and Testing: Focusses on conducting security control testing, collecting and analyzing data, conducting security audits to monitor risks, threats, and vulnerabilities. 
+
+7. Security Operations: Focusses on conducting investigations and implementing preventive measures. 
+
+8. Software Development Security: using secure coding practices to create secure applications and services. Security analyst may work with Software Development teams to ensure security practices are incorporates in software development.
+
+Password attack
+A password attack is an attempt to access password-secured devices, systems, networks, or data. Some forms of password attacks that you’ll learn about later in the certificate program are:  
+
+Brute force
+
+Rainbow table
+
+Password attacks fall under the communication and network security domain. 
+
+Social engineering attack
+Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. Some forms of social engineering attacks that you will continue to learn about throughout the program are: 
+
+Phishing
+
+Smishing
+
+Vishing
+
+Spear phishing
+
+Whaling
+
+Social media phishing
+
+Business Email Compromise (BEC)
+
+Watering hole attack
+
+USB (Universal Serial Bus) baiting
+
+Physical social engineering 
+
+Social engineering attacks are related to the security and risk management domain.
+
+Physical attack
+A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed. Some forms of physical attacks are:
+
+Malicious USB cable
+
+Malicious flash drive
+
+Card cloning and skimming
+
+Physical attacks fall under the asset security domain. 
+
+Adversarial artificial intelligence
+Adversarial artificial intelligence is a technique that manipulates 
+artificial intelligence and machine learning
+ technology to conduct attacks more efficiently. Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
+
+Supply-chain attack
+A supply-chain attack targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed. Because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain. These attacks are costly because they can affect multiple organizations and the individuals who work for them. Supply-chain attacks can fall under several domains, including but not limited to the security and risk management, security architecture and engineering, and security operations domains.
+
+Cryptographic attack
+A cryptographic attack affects secure forms of communication between a sender and intended recipient. Some forms of cryptographic attacks are: 
+
+Birthday
+
+Collision
+
+Downgrade
+
+Cryptographic attacks fall under the communication and network security domain. 
+
+Credits: Coursera: These definitions and terminologies are from Coursera 
