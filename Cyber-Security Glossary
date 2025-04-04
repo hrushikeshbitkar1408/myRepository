@@ -42,9 +42,11 @@ There are many terms and concepts that are important for security professionals 
 * USB baiting: An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and unknowingly infect a network.
 
 Understanding the eight domains of security professionals:
-1. Security and Risk Management: Defines security goals and objectives, risk mitigation, compliance, business continuity, and law. For example, security analyst may need to update policies on private health information. Ex. Social Engineering attacks.
+1. Security and Risk Management: Defines security goals and objectives, risk mitigation, compliance, business continuity, and law. 
+For example, security analyst may need to update policies on private health information. Ex. Social Engineering attacks.
 
-2. Asset Security: Focusses on security of physical and digital assets. It also pertains to storage, maintenance, retention, and destruction of data. For example, as a security analyst you may be required to physically destroy storage. Ex. Physical attack.
+2. Asset Security: Focusses on security of physical and digital assets. It also pertains to storage, maintenance, retention, and destruction of data. 
+For example, as a security analyst you may be required to physically destroy storage. Ex. Physical attack.
 
 3. Security Architecture and Engineering: Optimizes data security by ensuring effective tools, systems, and processes are in place. For example, you may be tasked to set up a company's firewall.
 
